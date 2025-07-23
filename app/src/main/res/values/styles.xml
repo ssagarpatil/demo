@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="CalculatorButtonStyle" parent="Widget.MaterialComponents.Button.OutlinedButton">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_margin">6dp</item>
+        <item name="android:layout_columnWeight">1</item>
+        <item name="cornerRadius">16dp</item>
+        <item name="android:backgroundTint">#FFFFFF</item>
+        <item name="android:elevation">6dp</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+</resources>
